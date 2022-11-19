@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../pointofsale"
+		},
+		{
+			"path": "../Helloword"
 		}
 	],
 	"settings": {}
